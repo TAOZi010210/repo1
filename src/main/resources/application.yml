@@ -17,4 +17,4 @@ mybatis:
       id-type: ASSIGN_ID
 
 reggie:
-  basepath: D:/take_out_pictures
+  basepath: /root/pictures
